@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Nicolerobinn/husky-ci.git",
-  "author": "Nick <cweb130@163.com>",
+  "author": "nicolerobinn <cweb130@163.com>",
   "keywords": [
     "ci",
     "continuous",
@@ -11,5 +11,6 @@
     "boohee"
   ],
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {}
 }
