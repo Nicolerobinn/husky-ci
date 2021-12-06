@@ -1,6 +1,6 @@
 {
   "name": "husky-ci",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "bin": "bin.js",
   "repository": "https://github.com/Nicolerobinn/husky-ci.git",
